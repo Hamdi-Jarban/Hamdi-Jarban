@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Hamdi-Jarban/Hamdi-Jarban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# مرحبًا، أنا حمدي 👋
 
-Here are some ideas to get you started:
+💻 طالب علوم الحاسوب وتقنية المعلومات، ومطوّر ويب مهتم ببناء تطبيقات عملية وحلول برمجية.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+أهتم بفهم كيفية بناء الأنظمة من الداخل، بدءًا من تصميم قواعد البيانات وصولًا إلى تطوير تطبيقات الويب وربط مكوناتها. أستمتع بالتعلم والتجربة وتحويل الأفكار إلى مشاريع قابلة للاستخدام.
+
+### 🛠️ التقنيات التي أعمل بها
+
+- **لغات وتقنيات الويب:** HTML, CSS, JavaScript, PHP
+- **أطر العمل:** Laravel, Bootstrap
+- **قواعد البيانات:** Microsoft SQL Server, MySQL
+- **البرمجة:** Python, C#, Java
+- **الأدوات:** Git, GitHub, Docker, Linux
+
+### 🎯 ما أهتم بتطويره
+
+- تطوير الواجهات الخلفية (Backend Development).
+- تصميم قواعد البيانات وبناء الأنظمة المنظمة.
+- تطوير واجهات برمجة التطبيقات (REST APIs).
+- هندسة البرمجيات وكتابة شيفرات قابلة للصيانة والتطوير.
+- استكشاف تقنيات جديدة وتطبيقها في مشاريع عملية.
+
+### 🚀 مشاريعي
+
+أستخدم هذا الحساب لمشاركة مشاريعي البرمجية، وتوثيق ما أتعلمه، وتطوير مهاراتي من خلال التطبيق العملي.
+
+🔗 [استكشف مستودعاتي البرمجية](https://github.com/Hamdi-Jarban?tab=repositories)
+
+### 📫 تواصل معي
+
+- **البريد الإلكتروني:** hmdyjrban129@gmail.com
+- **الموقع:** إب، اليمن
+
+---
+
+*أتعلم باستمرار، وأبني المشاريع، وأطوّر مهاراتي خطوة بخطوة.* 🚀
